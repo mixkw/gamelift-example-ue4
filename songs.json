@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "name": "ريمكسات عربية",
+      "songs": [
+        { "name": "أغنية عربية 1", "url": "https://example.com/ar1.mp3" },
+        { "name": "أغنية عربية 2", "url": "https://example.com/ar2.mp3" }
+      ]
+    },
+    {
+      "name": "ريمكسات أجنبية",
+      "songs": [
+        { "name": "أغنية أجنبية 1", "url": "https://example.com/en1.mp3" },
+        { "name": "أغنية أجنبية 2", "url": "https://example.com/en2.mp3" }
+      ]
+    },
+    {
+      "name": "ميقا",
+      "songs": [
+        { "name": "أغنية ميقا 1", "url": "https://example.com/mega1.mp3" }
+      ]
+    },
+    {
+      "name": "ميقا مكس",
+      "songs": [
+        { "name": "أغنية ميقا مكس 1", "url": "https://example.com/megaremix1.mp3" }
+      ]
+    }
+  ]
+}
